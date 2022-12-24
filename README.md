@@ -12,6 +12,8 @@ npm install -g sass
 2. Iniciar compilación con comando sass --watch nombre_fichero.scss nombre_fichero_salida.css
 3. Llamar al fichero css creado por la compilación en nuestro html de manera normal 
 
+```
 <link rel="stylesheet" type="text/css" href="nombre_fichero_salida.css" />
+```
 
 Y A DISFRUTAR!!
